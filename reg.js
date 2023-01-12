@@ -7,7 +7,7 @@ var Gender = document.myform.male.value;
 var Gender = document.myform.female.value;
 var Password = document.myform.pwd.value;
 var Confimpassword = document.myform.cpwd.value;
-
+//this is for practice only, nothing else 
 //cheking the inputs 
 if(Firstname == "" || Firstname == null){
     alert("Please enter your first name");
