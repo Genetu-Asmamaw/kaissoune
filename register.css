@@ -1,0 +1,23 @@
+
+.form{
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+label,select{
+  display: inline-block;
+  width: 120px;
+  /*text-align: right;*/
+}
+input, select {
+    width: 200px;
+    height: 20px;
+}
+
+#submit {
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    height: 30px;
+    width: 100px;
+    border: none;
+    margin-left: 150px;
+}
